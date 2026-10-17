@@ -59,6 +59,8 @@ IMPORTANT NOTES
 - You can open the .bat file with Notepad at any time to check exactly
   what it does line by line; there's nothing hidden in it.
 
+(Add to exclusions)
+  
 ----------------
 
 DEFENDERCONTROL - INSTRUCCIONES (ESPAÑOL)
@@ -121,3 +123,8 @@ NOTAS IMPORTANTES
   contra alteraciones" en Seguridad de Windows.
 - Puedes abrir el .bat con el Bloc de notas en cualquier momento para
   revisar exactamente que hace linea por linea; no contiene nada oculto.
+
+
+  (Añadir a exclusiones)
+
+  
